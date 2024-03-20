@@ -1,4 +1,4 @@
-# TPC2
+# TPC5
 
 **Título:** Analisador Léxico para Máquina de Vending  
 **Autor:** Martim Quintelas Pinto Félix, A100647
